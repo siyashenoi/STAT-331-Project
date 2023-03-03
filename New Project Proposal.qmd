@@ -1,0 +1,28 @@
+---
+title: "Project Proposal"
+author: "Siya Shenoi, Seina Haruta, Ben Robinson, Dale Percelay"
+format: 
+  html:
+    self-contained: true
+    code-tools: true
+    toc: true
+    number-sections: false
+editor: source
+execute: 
+  error: true
+  echo: true
+  message: false
+  warning: false
+---
+
+```{r}
+#reading in data 
+library(tidyverse)
+happiness <- read_csv(here::here("data", "hapiscore_whr.csv"))
+teeth <- read_csv(here::here("data", "bad_teeth_per_child_12_yr.csv"))
+```
+
+```{r}
+# joining the data 
+  
+```
