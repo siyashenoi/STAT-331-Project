@@ -1,6 +1,6 @@
 ---
-title: "Lab 8: The 12 Days of Christmas"
-author: "Your name"
+title: "Project Proposal"
+author: "Siya Shenoi, Seina Haruta, Ben Robinson, Dale Percelay"
 format: 
   html:
     self-contained: true
