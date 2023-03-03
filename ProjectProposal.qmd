@@ -10,4 +10,8 @@ library(tidyverse)
 happiness <- read_csv(here::here("data", "hapiscore_whr.csv"))
 teeth <- read_csv(here::here("data", "bad_teeth_per_child_12_yr.csv"))
 ```
+```{r}
+joined_data <|
+  
+```
 
