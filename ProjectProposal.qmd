@@ -1,10 +1,21 @@
 ---
 title: "Project Proposal"
 format:
+author: "Siya Shenoi, Seina Haruta, Ben Robinson, Dale Percelay"
+format: 
   html:
-    theme: default
+    self-contained: true
+    code-tools: true
+    toc: true
+    number-sections: false
+editor: source
+execute: 
+  error: true
+  echo: true
+  message: false
+  warning: false
 ---
-
+** Setup
 ```{r}
 library(tidyverse)
 happiness <- read_csv(here::here("data", "hapiscore_whr.csv"))
