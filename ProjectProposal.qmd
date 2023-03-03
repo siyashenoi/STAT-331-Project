@@ -1,10 +1,22 @@
 ---
-title: "ProjectProposal"
-format:
+title: "Project Proposal"
+subtitle: "STAT 331"
+author: "Siya Shenoi, Seina Haruta, Dale Percelay, Ben Robinson"
+format: 
   html:
-    theme: default
+    self-contained: true
+    code-tools: true
+    toc: true
+    number-sections: false
+editor: source
+execute: 
+  error: true
+  echo: true
+  message: false
+  warning: false
 ---
 
+** Setup 
 ```{r}
 
 ```
